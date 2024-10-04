@@ -1,8 +1,8 @@
-## Interface: 100105
+## Interface: 110002
 ## Title: Lockout
 ## Version: 1.0.0
 ## Notes: Interrupting/Fake casting Addon
-## Author: Ethan Rule
+## Author: wutname1, Ethan Rule
 ## SavedVariables: LockoutDB
 ## DefaultState: enabled
 
